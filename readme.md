@@ -28,9 +28,5 @@
 
 `docker-compose  up -d `
 
-### 最后
 
-欢迎关注我的博客[www.bboy.app](https://www.bboy.app/)
-
-Have Fun
 
